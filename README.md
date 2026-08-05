@@ -1,3 +1,4 @@
+
 # Lixo URL Shortener
 
 A minimal, production-ready URL shortener built with Spring Boot and React.
